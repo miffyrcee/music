@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "jquery": "^3.4.1",
-    "mathjs": "^6.5.0",
+    "mathjs": "^7.5.1",
     "papaparse": "^5.1.1",
     "puppeteer": "^2.1.0"
   }
